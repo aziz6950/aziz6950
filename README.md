@@ -1,40 +1,40 @@
-<h1 align="center">Hi 👋, I'm Nurul Aziz</h1>
-<h3 align="center">Beginner Competitive Programmer | C++ & Python Learner</h3>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">Aspiring Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=000000&width=500&lines=Competitive+Programming+Beginner;Learning+C%2B%2B+%26+Python;ESP32+%26+IoT+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Coding+%7C+Web+%7C+DSA;Always+Learning+and+Building;Open+to+Collaborations" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Learning **C++, Python & DSA**
-- 🧠 Solving problems on **Codeforces**
-- 🔌 ESP32 & IoT enthusiast
-- 🎯 Aim: Improve problem-solving skills
+- 🌱 I’m currently learning **C++, Python, Web Dev & DSA**
+- 💻 I enjoy building projects and solving problems
+- 📫 How to reach me: **[your email]**
+- 💬 Ask me about: tech, coding, projects, open source
 
 ---
 
-## 🛠 Skills & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,arduino,git,github,vscode&theme=light" />
+## 🛠 Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,react,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aziz6950&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziz6950&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Profiles
-- 🐙 GitHub: https://github.com/aziz6950  
-- 🏆 Codeforces: https://codeforces.com/profile/nurulaziz  
-
-✨ Thanks for stopping by!
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="https://twitter.com/YOUR_TWITTER">Twitter</a>
+</p>
