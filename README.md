@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm [Nurul Aziz Sohel]</h1>
 <h3 align="center">Aspiring Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **C++, Python, Web Dev & DSA**
+- 🌱 I’m currently learning C++, Python, Web Dev & DSA**
 - 💻 I enjoy building projects and solving problems
 - 📫 How to reach me: **[your email]**
 - 💬 Ask me about: tech, coding, projects, open source
