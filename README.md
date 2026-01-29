@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm [Nurul Aziz Sohel]</h1>
-<h3 align="center">Aspiring Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">🚀Aspiring Developer | ⏳Problem Solver | Tech Enthusiast| 🎓 CSE Student at IIUC</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Coding+%7C+Web+%7C+DSA;Always+Learning+and+Building;Open+to+Collaborations" />
