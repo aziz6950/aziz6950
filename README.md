@@ -8,9 +8,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning C++, Python, Web Dev & DSA**
+- 🌱 I’m currently learning  Python, Web Dev & DSA**
 - 💻 I enjoy building projects and solving problems
-- 📫 How to reach me: **[your email]**
+- 📫 How to reach me: azizc233151@gmail.com
 - 💬 Ask me about: tech, coding, projects, open source
 
 ---
