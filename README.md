@@ -40,6 +40,6 @@
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://github.com/aziz6950">GitHub</a> •
-<a href="https://linkedin.com/in/nurul-aziz-38a425352">LinkedIn</a>
+<a href="https://linkedin.com/in/nurul-aziz-38a425352">LinkedIn</a> •
   <a href="https://twitter.com/YOUR_TWITTER">Twitter</a>
 </p>
