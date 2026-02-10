@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/aziz6950/aziz6950/main/image.jpeg" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Nurul Aziz Sohel</h1>
+<h1 align="center"> I'm Nurul Aziz Sohel😎</h1>
 <h3 align="center">🚀Aspiring Developer | ⏳Problem Solver | 🪩Tech Enthusiast | 🎓 CSE Student at IIUC</h3>
 
 <p align="center">
