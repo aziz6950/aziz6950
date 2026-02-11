@@ -69,9 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aziz6950&repo=YOUR_REPO_NAME&theme=tokyonight" />
 </p>
 
-> 🔁 `YOUR_REPO_NAME` জায়গায় তোমার real repo বসাবে
-
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
